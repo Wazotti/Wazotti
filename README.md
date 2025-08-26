@@ -38,7 +38,7 @@ At the moment, I'm focusing on improving my skills and exploring new technologie
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazotti&layout=compact&theme=dark)  
