@@ -8,11 +8,11 @@ I studied **Java** at the **+Devs2Blu** program and I'm currently focusing on **
 
 ## 📚 About Me
 
-- 🎯 Passionate about solving real-world problems through technology  
-- 💡 I enjoy writing clean, efficient code and creating intuitive user experiences  
-- 🚀 Currently focused on improving my Java and Full Stack development skills  
-- 🔍 Always curious, experimenting with new tools and building personal projects  
-- 🌱 I believe continuous learning is the key to growth  
+- 🎯 Passionate about solving real-world problems through technology
+- 💡 I enjoy writing clean and efficient code
+- 🚀 Currently developing my Java and Full Stack skills
+- 🔍 Always curious, exploring new tools and experimenting with personal projects
+- 🌱 I believe continuous learning and hands-on practice are the keys to growth
 
 ---
 
