@@ -59,4 +59,5 @@ At the moment, I'm focusing on improving my skills and exploring new technologie
 
 ---
 
-✨ *This profile is a work in progress — just like my journey as a developer!* 🚀
+🚀 *Building my path as a developer — one commit at a time!* 🚀
+
