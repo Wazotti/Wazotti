@@ -33,17 +33,17 @@ Currently, I’m transitioning into the world of **software development**, with 
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazotti&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazotti&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Wazotti&theme=tokyonight)
 
 </div>
 
 ---
 
 ## 🌍 Connect with me
-- 📧 Email: [SEU-EMAIL](mailto:SEU-EMAIL)  
-- 💼 LinkedIn: [SEU-LINKEDIN](SEU-LINKEDIN)  
+- 📧 Email: [SEU-EMAIL](mailto:claramazotti@gmail.com)  
+- 💼 LinkedIn: [SEU-LINKEDIN](https://www.linkedin.com/in/maria-clara-mazotti-74071a268/)  
 
 ---
 
