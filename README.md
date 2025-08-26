@@ -12,8 +12,9 @@ At the moment, I'm focusing on improving my skills and exploring new technologie
 - **Java** & Object-Oriented Programming (**OOP**) 
 - **JavaScript**, **HTML5** & **CSS3**  
 - **Node.js** & **Angular**  
-- **MySQL** Database  
-- **Git** & **GitHub** for version control  
+- **MySQL** & **PostgreSQL**   
+- **Git** & **GitHub** for version control
+- **IntelliJ IDEA** & **VS Code** as the main IDEs
 
 ---
 
