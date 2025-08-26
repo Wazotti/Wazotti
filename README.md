@@ -2,7 +2,7 @@
 
 Hey, welcome to my GitHub!  
 I'm Maria Clara, a tech enthusiast passionate about learning and building solutions through technology.  
-Currently, I’m part of the **+Devs2Blu** program, focusing on **Full Stack Development** with **Java**.
+I studied **Java** at the **+Devs2Blu** program and I'm currently focusing on **Full Stack Development** while continuously improving my skills.
 
 ---
 
