@@ -34,7 +34,7 @@ Currently, I’m transitioning into the world of **software development**, with 
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazotti&layout=compact&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Wazotti&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Wazotti&theme=dark&hide_border=false)
 
 </div>
 
