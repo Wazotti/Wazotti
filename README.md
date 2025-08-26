@@ -4,13 +4,17 @@ Hi there! I'm Maria Clara, a tech enthusiast passionate about learning and build
 Currently, I’m transitioning into the world of **software development**, with a focus on **Web Development** and **Databases**.  
 
 ---
+---
 
-## 📚 Currently learning
-- Java and Object-Oriented Programming (OOP)  
-- JavaScript, HTML5 & CSS3  
-- Node.js & Angular  
-- MySQL Database  
-- Git & GitHub version control  
+## 📚 Currently Learning
+
+At the moment, I'm focusing on improving my skills and exploring new technologies:
+
+- **Java** & Object-Oriented Programming (OOP) ☕  
+- **JavaScript**, **HTML5** & **CSS3** 🌐  
+- **Node.js** & **Angular** ⚡  
+- **MySQL** Database 🗄️  
+- **Git** & **GitHub** for version control 🛠️  
 
 ---
 
