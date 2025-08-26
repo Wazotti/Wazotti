@@ -9,11 +9,11 @@ Currently, I’m transitioning into the world of **software development**, with 
 
 At the moment, I'm focusing on improving my skills and exploring new technologies:
 
-- **Java** & Object-Oriented Programming (OOP) ☕  
-- **JavaScript**, **HTML5** & **CSS3** 🌐  
-- **Node.js** & **Angular** ⚡  
-- **MySQL** Database 🗄️  
-- **Git** & **GitHub** for version control 🛠️  
+- **Java** & Object-Oriented Programming (**OOP**) 
+- **JavaScript**, **HTML5** & **CSS3**  
+- **Node.js** & **Angular**  
+- **MySQL** Database  
+- **Git** & **GitHub** for version control  
 
 ---
 
