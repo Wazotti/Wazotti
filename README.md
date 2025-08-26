@@ -46,9 +46,16 @@ At the moment, I'm focusing on improving my skills and exploring new technologie
 
 ---
 
-## 🌍 Connect with me
-- 📧 Email:(mailto:claramazotti@gmail.com)  
-- 💼 LinkedIn:(https://www.linkedin.com/in/maria-clara-mazotti-74071a268/)  
+## 🌍 Connect with Me
+
+<p align="left">
+  <a href="mailto:claramazotti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/maria-clara-mazotti-74071a268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
