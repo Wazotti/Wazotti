@@ -1,7 +1,7 @@
 # 👩‍💻 Maria Clara Mazotti
 
 Hi there! I'm Maria Clara, a tech enthusiast passionate about learning and building solutions through technology.  
-Currently, I’m transitioning into the world of **software development**, with a focus on **Web Development** and **Databases**.  
+Currently, I’m taking the **+Devs2Blu** program, focusing on **Full Stack Development** with **Java**.
 
 ---
 
