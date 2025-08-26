@@ -1,16 +1,20 @@
-## Hi there 👋
+👩‍💻 Maria Clara
+💡 Sobre mim
 
-<!--
-**Wazotti/Wazotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Desenvolvimento de Sistemas e apaixonada por tecnologia. Tenho experiência em Administração e atualmente estou aprofundando meus conhecimentos em programação (Java, HTML, CSS, JavaScript, Node.js e Angular).
+Busco constantemente aprender novas ferramentas e contribuir com projetos que gerem impacto positivo.
 
-Here are some ideas to get you started:
+🎓 Em formação pelo programa +Devs2Blu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interesse em Desenvolvimento Web e Banco de Dados
+
+🤝 Aberta a colaborações em projetos de código aberto
+
+🛠️ Tecnologias & Ferramentas
+
+💻 Linguagens: Java, JavaScript, HTML5, CSS3
+⚙️ Frameworks/Bibliotecas: Node.js, Angular
+🗄️ Banco de Dados: MySQL
+📂 Versionamento: Git & GitHub
+
+📊 Estatísticas do GitHub
