@@ -5,17 +5,13 @@ Currently, I’m taking the **+Devs2Blu** program, focusing on **Full Stack Deve
 
 ---
 
-## 📚 Currently Learning
+## 📚 About Me
 
-At the moment, I'm focusing on improving my skills and exploring new technologies:
-
-- **Java** & Object-Oriented Programming (**OOP**) 
-- **JavaScript**, **HTML5** & **CSS3**  
-- **Node.js** & **Angular**  
-- **MySQL** & **PostgreSQL**   
-- **Git** & **GitHub** for version control
-- **IntelliJ IDEA** & **VS Code** as the main IDEs
-
+- 🎯 Passionate about solving real-world problems through technology  
+- 💡 I enjoy writing clean, efficient code and creating intuitive user experiences  
+- 🚀 Currently focused on improving my Java and Full Stack development skills  
+- 🔍 Always curious, experimenting with new tools and building personal projects  
+- 🌱 Believe that continuous learning is the key to growth  
 ---
 
 ## 🛠 Skills
