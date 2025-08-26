@@ -34,15 +34,14 @@ Currently, I’m transitioning into the world of **software development**, with 
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazotti&layout=compact&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Wazotti&theme=dark&hide_border=false)
 
 </div>
 
 ---
 
 ## 🌍 Connect with me
-- 📧 Email: [SEU-EMAIL](mailto:claramazotti@gmail.com)  
-- 💼 LinkedIn: [SEU-LINKEDIN](https://www.linkedin.com/in/maria-clara-mazotti-74071a268/)  
+- 📧 Email:(mailto:claramazotti@gmail.com)  
+- 💼 LinkedIn:(https://www.linkedin.com/in/maria-clara-mazotti-74071a268/)  
 
 ---
 
