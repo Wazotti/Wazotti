@@ -33,9 +33,8 @@ Currently, I’m transitioning into the world of **software development**, with 
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazotti&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazotti&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Wazotti&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazotti&layout=compact&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Wazotti&theme=dark)
 
 </div>
 
