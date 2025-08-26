@@ -1,7 +1,8 @@
 # 👩‍💻 Maria Clara Mazotti
 
-Hi there! I'm Maria Clara, a tech enthusiast passionate about learning and building solutions through technology.  
-Currently, I’m taking the **+Devs2Blu** program, focusing on **Full Stack Development** with **Java**.
+Hey, welcome to my GitHub!  
+I'm Maria Clara, a tech enthusiast passionate about learning and building solutions through technology.  
+Currently, I’m part of the **+Devs2Blu** program, focusing on **Full Stack Development** with **Java**.
 
 ---
 
@@ -11,7 +12,8 @@ Currently, I’m taking the **+Devs2Blu** program, focusing on **Full Stack Deve
 - 💡 I enjoy writing clean, efficient code and creating intuitive user experiences  
 - 🚀 Currently focused on improving my Java and Full Stack development skills  
 - 🔍 Always curious, experimenting with new tools and building personal projects  
-- 🌱 Believe that continuous learning is the key to growth  
+- 🌱 I believe continuous learning is the key to growth  
+
 ---
 
 ## 🛠 Skills
@@ -32,31 +34,4 @@ Currently, I’m taking the **+Devs2Blu** program, focusing on **Full Stack Deve
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-
----
-
-## 📊 Most Used Languages
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazotti&layout=compact&theme=dark)  
-
-</div>
-
----
-
-## 🌍 Connect with Me
-
-<p align="left">
-  <a href="mailto:claramazotti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/maria-clara-mazotti-74071a268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-🚀 *Building my path as a developer — one commit at a time!* 🚀
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-)
